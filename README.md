@@ -18,6 +18,7 @@ SnakeGame is a fun game based on the classic and famous mobile game. I decided t
 
 # Skills and used libraries
 - Pygame
+- Random
 
 
 
